@@ -6,7 +6,7 @@
 
 ## Dataset Download
 
-Coming soon...
+Please contact me: [haolan.zhan@monash.edu](haolan.zhan@monash.edu) for the access of data. Thanks.
 
 
 ## Have any questions?
